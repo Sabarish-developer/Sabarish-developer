@@ -36,7 +36,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### Tools & DevOps
